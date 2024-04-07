@@ -21,6 +21,8 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a senior at Princeton University studying Computer Science and Physics. I'm incredibly lucky to be advised by Professors <a href='https://www.cs.princeton.edu/~zhonge/'>Ellen Zhong</a> and <a href='https://www.cs.princeton.edu/~fheide/'>Felix Heide</a>.
 
+I <a href="https://yongweiche.github.io/">co</a>-organize <a href='https://davshus.notion.site/Princeton-Systems-Reading-Group-fc78c0d254c74aee995d7c8b21cc37ac'>PSRG: Princeton Systems Reading Group</a>, a weekly meeting to discuss topics in computer systems including compilers, programming languages, and operating systems.
+
 I'm interested in using computers to understand the world. In the past I have spent time on <a href='https://www.skydio.com/'>autonomous</a> <a href='https://www.nuro.ai/'>vehicles</a>, <a href='https://light.princeton.edu/'>neural scene representations</a>, and <a href='https://ezlab.princeton.edu/'>machine learning for structural biology</a>.
 
 You can reach me at `A@B.edu`, where `A, B = dshustin, princeton`.
